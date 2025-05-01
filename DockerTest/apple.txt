@@ -1,0 +1,5 @@
+
+Today is first day of doing Docker lessons
+Second day of Docker class.
+Other docker files have been created. Start, run and stop have been performed.
+
